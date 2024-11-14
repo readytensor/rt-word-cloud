@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Generated files
+wordcloud.png
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images
+*.png
