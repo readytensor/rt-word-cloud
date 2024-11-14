@@ -1,6 +1,6 @@
 # Word Cloud Generator
 
-Create visual word clouds from a list of AI/ML terms with customizable colors and styling.
+Create visual word clouds from a list of terms with customizable colors and styling.
 
 ## Requirements
 
