@@ -40,4 +40,4 @@ pip install -r requirements.txt
 python generate_wordcloud.py
 ```
 
-Output will be saved as `wordcloud.png` under `output` directory.
+Output will be saved as `src/wordcloud.png` under `output` directory.
